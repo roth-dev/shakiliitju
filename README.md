@@ -577,27 +577,21 @@ I really like to play with my skills and creativity. Feel free to contact me if 
  
  ## Social Media
  <section>
- <a href="https://in.linkedin.com/in/shakiliitju" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+ <a href="https://in.linkedin.com/in/roth-dev-b251a7228" target="_blank">
+    <img align="left" alt="Roth Dev | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
    </a>
-   <a href="https://www.facebook.com/shakiliitju" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
+   <a href="https://www.facebook.com/roth.dev.ops" target="_blank">
+    <img align="left" alt="រ័ត្ន | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
  </a>
-   <a href="https://twitter.com/shakiliitju" target="_blank">
-     <img align="left" alt="Md. Shakil Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+   <a href="https://x.com/rothdevops" target="_blank">
+     <img align="left" alt="roth | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
    </a>
-   <a href="https://www.instagram.com/shakiliitju/" target="_blank">
-     <img align="left" alt="Md. Shakil Hossain | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+   <a href="https://www.instagram.com/ro._.th/" target="_blank">
+     <img align="left" alt="roth | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
    </a>
-   <a href="https://www.youtube.com/channel/UCOs-5vDybRI2YvpUiJrd_9Q" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
- </a>
-  <a href="https://www.behance.net/md_shakil_hossain/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Behance" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/behance.svg" />
- </a>
- <a href="https://flickr.com/people/shakiliitju/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Flickr" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/flickr.svg" />
- </a>
+   <a href="https://www.youtube.com/channel/UC6svZ0CR15A9toDxnsjGOxg" target="_blank">
+    <img align="left" alt="Roth Dev | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
+ </a> 
  <br>
  </section>
  <!-- End Social Media -->
