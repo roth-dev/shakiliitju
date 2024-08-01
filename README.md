@@ -8,7 +8,7 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=roth.dev.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
 </div>
 	  
@@ -271,7 +271,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
  <br>
-
 
 ### 🧰 Frameworks and libraries
 
@@ -543,7 +542,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
 </p>
-
 
 <p align="center">
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
