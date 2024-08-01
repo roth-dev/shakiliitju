@@ -19,7 +19,7 @@
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif">
   </div>
    <h2 align="center">I am Md. Shakil Hossain✨</h2> -->
-   <p>I am Md. Shakil Hossain from Bangladesh.🎓 I am Currently a Final year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> <br>My childhood was spent in a village in Ullapara of Sirajganj district. Started studying in the primary school of my village. Completed Junior School Certificate and Secondary School Certificate Examination from Koira High School and College. Then come to Dhaka city with a chest of hope. Obtained Higher Secondary School Certificate from Jahangirnagar University School and College. My father is a farmer and mother is a housewife. I am the youngest among three children in the family. Buying books is my hobby. Established a family library called "In Search of Truth" with the collected books. I love to read and teach others.<br>
+   <p>I am roth.dev from Cambodia.🎓 I am Currently a Final year Student at <a href="https://www.juniv.edu/institute/iit" target="_blank">Institute of Information Technology</a>  in <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University.</a> <br>My childhood was spent in a village in Ullapara of Sirajganj district. Started studying in the primary school of my village. Completed Junior School Certificate and Secondary School Certificate Examination from Koira High School and College. Then come to Dhaka city with a chest of hope. Obtained Higher Secondary School Certificate from Jahangirnagar University School and College. My father is a farmer and mother is a housewife. I am the youngest among three children in the family. Buying books is my hobby. Established a family library called "In Search of Truth" with the collected books. I love to read and teach others.<br>
 I really like to play with my skills and creativity. Feel free to contact me if you have any questions.
    </p>
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
@@ -51,9 +51,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- End Visitor Count -->
 
-
-    
-    
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -65,27 +62,21 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
 
-
-
-
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-|My github statistics|Most used languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark)
+| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark) |
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
 
- 
- 
- 
 <!--  START Project SECTION  -->
 <p align="center">
  <h2 align="center">Project</h2>
-
 
 <table>
         <thead align=center>
@@ -192,7 +183,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 
 <!--  End Project SECTION  -->
 
-
 <!--  START Kaggle Tier & Medals SECTION  -->
 <p align="center">
   <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
@@ -209,7 +199,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 
 <!--  END Kaggle Tier & Medals SECTION  -->
 
-
 <!--  START worked SECTION  -->
 
 <p align="center">
@@ -225,35 +214,29 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 
 <!--  END worked SECTION  -->
 
-    
- 
-<!-- START Learning Tecnologias SECTION -->	
+<!-- START Learning Tecnologias SECTION -->
 <p align="center">
  <h2 align="center">Learning Tecnologias</h2>
 
-
-|                                                          |                   |                                      |                                                      |                 |                                      |
-| -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
-| ![react](./img/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./img/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./img/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./img/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./img/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
+|                                                                |                   |                                      |                                                    |             |                                      |
+| -------------------------------------------------------------- | ----------------- | ------------------------------------ | -------------------------------------------------- | ----------- | ------------------------------------ |
+| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)               | Node        | ![80%](https://progress-bar.dev/80/) |
+| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)               | Nest        | ![80%](https://progress-bar.dev/80/) |
+| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)         | TypeORM     | ![80%](https://progress-bar.dev/80/) |
+| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)     | Sequelize   | ![80%](https://progress-bar.dev/80/) |
+| ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)   | PostgreSQL  | ![80%](https://progress-bar.dev/80/) |
+| ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)               | Jest        | ![80%](https://progress-bar.dev/80/) |
+| ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)           | Docker      | ![60%](https://progress-bar.dev/60/) |
+| ![react](./img/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./img/technologies/next.png)               | Next        | ![40%](https://progress-bar.dev/40/) |
+| ![redux](./img/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./img/technologies/css-modules.png) | CSS Modules | ![80%](https://progress-bar.dev/80/) |
+| ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./img/technologies/material-ui.png) | Material UI | ![80%](https://progress-bar.dev/80/) |
+| ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                 | Git         | ![80%](https://progress-bar.dev/80/) |
 | ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 	
 <!-- END Learning Tecnologias SECTION -->
 
-	
-	
-	
 <!-- START My favorite tools -->
 <h2 align="center">🛠️ My favorite tools</h2>
 
@@ -288,7 +271,7 @@ I really like to play with my skills and creativity. Feel free to contact me if 
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
  <br>
- 
+
 
 ### 🧰 Frameworks and libraries
 
@@ -361,8 +344,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
  <br>
-
-
 
 <table align="center">
 
@@ -553,11 +534,7 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
-
 <!-- End My favorite tools -->
- 
- 
- 
 
 <!-- START Contribution Graph SECTION -->
 <p align="center">
@@ -566,7 +543,7 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
 </p>
-	
+
 
 <p align="center">
 <img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
@@ -578,9 +555,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
 
-
-
-   
 <!-- Start Contact Me -->
 <section>
   <p align="center">
@@ -629,8 +603,6 @@ I really like to play with my skills and creativity. Feel free to contact me if 
  <br>
  </section>
  <!-- End Social Media -->
-
-
 
 </body>
 
